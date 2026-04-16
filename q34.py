@@ -6,7 +6,7 @@ def print_primes(n):
 
     while count < n:
         is_prime = True
-
+                        
         for i in range(2, num):
             if num % i == 0:
                 is_prime = False
@@ -17,6 +17,4 @@ def print_primes(n):
             count += 1
 
         num += 1
-
-
 print_primes(25)
