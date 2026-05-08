@@ -10,4 +10,7 @@ def triangle(a,b,c):
 x=int(input("Enter side1 : "))
 y=int(input("enter side2 : "))
 z=int(input("Enter side3 : "))
-triangle(x,y,z)
+triangle(x,y,z)  
+
+
+

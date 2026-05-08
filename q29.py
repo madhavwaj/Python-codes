@@ -12,5 +12,4 @@ def armstrong():
 
         if total == n:
             print(n)
-
 armstrong()

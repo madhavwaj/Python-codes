@@ -5,3 +5,5 @@ nums = [1, 2, 3, 4]
 
 for p in permutations(nums):
     print(p)
+
+
