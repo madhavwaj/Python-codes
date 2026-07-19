@@ -8,3 +8,6 @@ for i in s:
     if i==ch:
         count=count+1
 print("frequency=", count)        
+
+
+
